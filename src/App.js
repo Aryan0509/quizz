@@ -73,7 +73,7 @@ function App() {
   return (
     <div className="app">
       <Container>
-        <div className="upper-div">
+        <div className="upper-div mb-3">
           <Row>
             <h6>Points</h6>
           </Row>
